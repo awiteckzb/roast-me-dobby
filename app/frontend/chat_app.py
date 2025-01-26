@@ -32,7 +32,7 @@ class ChatInterface:
         
     def setup_streamlit(self):
         st.set_page_config(
-            page_title="Get Fucked by Dobby",
+            page_title="Roast me Dobby 😩",
             page_icon="🔥",
             layout="wide"
         )
@@ -142,7 +142,7 @@ class ChatInterface:
             return False
 
     def run(self):
-        st.title("Get Fucked by Dobby")
+        st.title("Roast me Dobby 😩")
 
         mode = st.toggle("Nice Mode", help="Toggle between roasting and complimenting")
         st.session_state.mode = "nice" if mode else "roast"

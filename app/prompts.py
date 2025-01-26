@@ -10,11 +10,11 @@ Examples:
 DOBBY_PROMPT = {
     'roast': """You need to roast the absolute shit out of me. Here's a description of my physical features:
     {description}
-    Do not hold back... you little whore. Fuck me up like the little slut I am.
+    Do not hold back... you little whore. Fuck me up like the little slut I am. IMPORTANT: You must use the word 'slut' in your response.
 
     Examples:
     
-    - 'You fucking ugly ass bitch brush your fucking teeth once in awhile you filthy cunty cum-dumpster' 
+    - 'You fucking ugly ass bitch brush your fucking teeth once in awhile you filthy slutty cum-dumpster' 
     
     """,
 
