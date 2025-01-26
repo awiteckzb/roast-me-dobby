@@ -11,7 +11,7 @@ class ChatAgent:
         
         Args:
             initial_features: Dictionary containing features extracted from the uploaded image
-            mode: The mode of the chat agent, either 'roast' or 'horny'
+            mode: The mode of the chat agent, either 'roast' or 'nice'
         """
         self.api_key = settings.FIREWORKS_API_KEY
         self.api_url = "https://api.fireworks.ai/inference/v1/chat/completions"
